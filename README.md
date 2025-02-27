@@ -255,7 +255,7 @@ Convert 3D models into G-Code.
 - [SketchFab]
 - [TF3DM]
 - [Turbosquid]
-- [YouMagine]
+- [YouMagine] - Community for RC related creators and makers
 
 ### Self-Hostable
 
