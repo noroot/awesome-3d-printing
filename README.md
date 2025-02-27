@@ -231,13 +231,13 @@ Convert 3D models into G-Code.
 
 ## Online 3D Model Repositories
 
-From 3D printer manufacturer:
+### From 3D printer manufacturer
 
 - [Thingiverse] - (from Ultimaker)
 - [Printables] - (from Prusa Research)
 - [Makerworld] - (from Bambu Lab)
 
-Independent:
+### Independent
 
 - [3D Kitbash] - Premium 3D-printable 3D models of toys.
 - [3D Via]
@@ -257,7 +257,7 @@ Independent:
 - [Turbosquid]
 - [YouMagine]
 
-Self-Hostable:
+### Self-Hostable
 
 - [Manyfold]
 
