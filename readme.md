@@ -18,7 +18,6 @@ A curated list of awesome 3D printing resources.
 - [On Demand 3D Printing Services](#on-demand-3d-printing-services)
 - [Marketplaces](#marketplaces)
 - [On Demand 3D Printing Price Comparison](#on-demand-3d-printing-price-comparison)
-- [Search Engines](#search-engines)
 - [Technologies](#technologies)
 - [Filaments](#filaments)
 
@@ -256,11 +255,11 @@ Independent:
 - [SketchFab]
 - [TF3DM]
 - [Turbosquid]
+- [YouMagine]
 
 Self-Hostable:
 
 - [Manyfold]
-
 
 [3D Kitbash]: https://3dkitbash.com
 [3D Via]: https://www.3ds.com/products/3dvia
